@@ -156,7 +156,7 @@ energy-data-project/
 ---
 
 ## 📸 Dashboard Preview
-![Dashboard](dashboard.png)
+![Dashboard](dashboard/dashboard.png)
 
 ---
 
